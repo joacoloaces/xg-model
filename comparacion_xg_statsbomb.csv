@@ -1,0 +1,26 @@
+﻿fecha,partido,equipo,jugador,minuto,x,y,xg_statsbomb,resultado,parte_cuerpo,tecnica,tipo_tiro,patron_juego,bajo_presion,xg_modelo
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Pedro González López,6,98.9,42.8,0.050982397,Off T,Left Foot,Normal,Open Play,From Corner,False,
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,9,105.5,42.9,0.09020188,Blocked,Left Foot,Normal,Open Play,Regular Play,False,0.0918
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Antoine Griezmann,9,116.5,31.4,0.23502783,Saved,Left Foot,Normal,Open Play,Regular Play,False,0.1156
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Ousmane Dembélé,14,108.0,54.9,0.0596119,Saved,Right Foot,Normal,Open Play,From Counter,False,0.0277
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,16,95.2,41.5,0.054610096,Off T,Left Foot,Normal,Open Play,Regular Play,False,0.0279
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,18,113.1,28.9,0.101339325,Off T,Left Foot,Volley,Open Play,From Free Kick,False,0.0461
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,27,112.3,45.1,0.16491379,Goal,Head,Normal,Open Play,Regular Play,False,0.104
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Antoine Griezmann,30,108.0,31.0,0.03680788,Off T,Head,Normal,Open Play,From Corner,True,0.0305
+2021-05-16,Barcelona - Celta Vigo,Celta Vigo,Santiago Mina Lorenzo,37,97.2,37.6,0.051378094,Goal,Right Foot,Normal,Open Play,From Throw In,False,0.0371
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,41,97.4,45.4,0.04007158,Blocked,Left Foot,Normal,Open Play,Regular Play,False,0.0306
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Moriba Kourouma Kourouma,53,97.4,49.7,0.029657349,Off T,Right Foot,Normal,Open Play,Regular Play,False,0.0264
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Ronald Federico Araújo da Silva,60,117.8,38.0,0.5642073,Off T,Head,Normal,Open Play,From Corner,True,0.3591
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Ousmane Dembélé,62,99.8,51.3,0.036774643,Blocked,Right Foot,Normal,Open Play,From Corner,False,0.0294
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Moriba Kourouma Kourouma,65,105.5,38.5,0.13638648,Off T,Head,Normal,Open Play,Regular Play,False,0.0435
+2021-05-16,Barcelona - Celta Vigo,Celta Vigo,Denis Suárez Fernández,70,102.4,30.5,0.07740248,Saved,Right Foot,Normal,Open Play,Regular Play,False,0.0438
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Ronald Federico Araújo da Silva,71,88.1,50.9,0.015701557,Off T,Right Foot,Normal,Open Play,From Throw In,False,0.0099
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Jordi Alba Ramos,80,109.5,27.1,0.090813234,Off T,Left Foot,Normal,Open Play,From Corner,True,0.044
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,84,101.8,45.3,0.07324356,Saved,Left Foot,Half Volley,Open Play,From Free Kick,False,0.0379
+2021-05-16,Barcelona - Celta Vigo,Celta Vigo,Augusto Jorge Mateo Solari,86,107.4,40.5,0.25516874,Saved,Right Foot,Normal,Open Play,Regular Play,False,0.1224
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Martin Braithwaite Christensen,86,112.8,35.0,0.17842196,Off T,Right Foot,Half Volley,Open Play,Regular Play,False,0.1317
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,87,108.7,30.9,0.085805565,Wayward,Left Foot,Normal,Open Play,Regular Play,False,0.0713
+2021-05-16,Barcelona - Celta Vigo,Celta Vigo,Santiago Mina Lorenzo,88,112.9,45.0,0.3457039,Goal,Right Foot,Half Volley,Open Play,Regular Play,False,0.1312
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Ronald Federico Araújo da Silva,90,103.9,40.6,0.027145049,Blocked,Head,Normal,Open Play,From Free Kick,True,0.0332
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Sergino Dest,91,109.1,60.5,0.008288619,Off T,Right Foot,Normal,Open Play,Regular Play,True,0.0175
+2021-05-16,Barcelona - Celta Vigo,Barcelona,Lionel Andrés Messi Cuccittini,92,99.8,35.6,0.07906983,Off T,Left Foot,Normal,Open Play,From Counter,False,0.0424

@@ -1,0 +1,77 @@
+{
+ "play_pattern": [
+  "Regular Play",
+  "From Free Kick",
+  "From Throw In",
+  "From Corner",
+  "From Counter",
+  "From Goal Kick",
+  "From Keeper",
+  "From Kick Off",
+  "Other"
+ ],
+ "shot_body_part": [
+  "Right Foot",
+  "Left Foot",
+  "Head",
+  "Other"
+ ],
+ "shot_technique": [
+  "Normal",
+  "Half Volley",
+  "Volley",
+  "Lob",
+  "Overhead Kick",
+  "Backheel",
+  "Diving Header"
+ ],
+ "shot_type": [
+  "Open Play",
+  "Free Kick",
+  "Corner",
+  "Kick Off"
+ ],
+ "prev_type": [
+  "Carry",
+  "Pressure",
+  "Pass",
+  "Ball Recovery",
+  "Duel",
+  "Foul Won",
+  "Block",
+  "Error",
+  "Goal Keeper",
+  "Foul Committed",
+  "Bad Behaviour",
+  "Clearance",
+  "Interception",
+  "Dribble",
+  "Shot",
+  "Miscontrol",
+  "50/50",
+  "Half Start"
+ ],
+ "kp_height": [
+  "Ground Pass",
+  "None",
+  "High Pass",
+  "Low Pass"
+ ],
+ "kp_type": [
+  "None",
+  "Corner",
+  "Recovery",
+  "Free Kick",
+  "Throw-in",
+  "Interception",
+  "Goal Kick",
+  "Kick Off"
+ ],
+ "kp_technique": [
+  "None",
+  "Through Ball",
+  "Outswinging",
+  "Inswinging",
+  "Straight"
+ ]
+}
